@@ -1,5 +1,5 @@
 # Esercizi di Fondamenti di Informatica
-Il repository contiene esercizi svolti in C in preparazione all'esame di Informatica (7 CFU) per Ingegnera Biomedica
+Il repository contiene esercizi svolti in C in preparazione all'esame di Informatica (7 CFU) per Ingegneria Biomedica
 
 <br><br>
 
