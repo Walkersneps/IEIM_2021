@@ -113,9 +113,9 @@ void richiediMossa(char board[BOARD_SIZE][BOARD_SIZE], char player) {
 
 
 /* Tutte le funzioni seguenti ritornano:
- * --> 0 nessun tris
- * --> 1 ha fatto punto O
- * --> 2 ha fatto punto X
+ * --> 0: nessun tris
+ * --> 1: ha fatto punto O
+ * --> 2: ha fatto punto X
 */
 char controllaRiga(int riga, char board[BOARD_SIZE][BOARD_SIZE]) {
     char possibleWinner;
