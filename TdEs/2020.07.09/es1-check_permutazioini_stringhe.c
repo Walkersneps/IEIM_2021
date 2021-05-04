@@ -15,7 +15,7 @@ char sonoPermutate(char s1[], char s2[]) {
      * accorcio le due stringhe eliminando i caratteri verificati
      * (come se si annichilissero tra loro).
      * Appena trovo un carattera che non ha omologo,
-     * concoludo che le due stringhe non sono permutazioni.
+     * concludo che le due stringhe non sono permutazioni.
     */
    
    if(strlen(s1) < 1) return 1; //se ho già svuotato s1 senza aver mai ritornato, vuol dire che ogni char aveva omologo in s2
