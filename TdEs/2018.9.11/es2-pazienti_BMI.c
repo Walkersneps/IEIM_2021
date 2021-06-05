@@ -5,7 +5,7 @@
  * Si scriva quindi una funzione in C che,
  * dato un array di K pazienti ed un numero N (con N<K),
  * scelga gli N migliori pazienti dall’insieme
- * ottimizzando il loro BMI (BMI = peso/(altezza^2), aka gli N pazienti a più basso BMI.
+ * ottimizzando il loro BMI (BMI = peso/(altezza^2)), aka gli N pazienti a più basso BMI.
  * La funzione dovrà quindi restituire al chiamante l’array degli N pazienti individuati.
 */
 
