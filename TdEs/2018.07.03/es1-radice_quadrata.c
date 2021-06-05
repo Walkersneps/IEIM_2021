@@ -6,7 +6,6 @@
  * Non è possibile usare alcuna funzione esterna di libreria.
 */
 
-#include <stdio.h>
 
 int radice(int n, int test) {
     if (test < 0) return -1;
@@ -15,6 +14,8 @@ int radice(int n, int test) {
 }
 
 
+
+#include <stdio.h>
 int main() {
     int n, rad;
 
